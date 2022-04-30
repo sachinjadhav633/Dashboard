@@ -31,7 +31,7 @@ function Index() {
               <span className="links_name">Profile</span>
             </a>
           </li>
-          
+
           <li>
             <a>
               <i className='bx bx-coin-stack' ></i>
@@ -77,14 +77,14 @@ function Index() {
           <div className="right-side">
           <img className="img" src="img/Img1.jpg" alt="img" />
           
-            <div className="box-topic">Alexandra <p>Smith</p></div>
+            <div className="box-topic">Kate <p>Smith</p></div>
 
-                <p className="status-Inactive">InActive</p>
+                <p className="status-active">Active</p>
                 <div className="contactinfo language">
                     <span className="percent">
-                        <div style={{width:'21%'}}></div>
+                        <div style={{width:'81%'}}></div>
                     </span>
-                    <span className="text">Storage:21%</span>
+                    <span className="text">Storage:81%</span>
                 </div>
           </div>
           
